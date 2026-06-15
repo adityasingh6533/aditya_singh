@@ -1,3 +1,20 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020409,30:0d1117,60:0d1e3d,100:1a0d2e&height=300&section=header&text=Aditya%20Kumar%20Singh&fontSize=52&fontColor=79c0ff&animation=fadeIn&fontAlignY=48&desc=Full-Stack%20Developer%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20AI%20Integrations%20%E2%80%A2%20DSA%20200%2B&descAlignY=66&descSize=15&descColor=6e7681&stroke=1f6feb&strokeWidth=1"/>
+</div>
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=79C0FF&center=true&vCenter=true&width=520&lines=B.Tech+CSE+%40+Bennett+University+%7C+CGPA+9.14;Built+AI+systems+with+satellite+data+%26+ML;200%2B+DSA+problems+solved+on+LeetCode+%26+GFG;Always+building.+Always+shipping.)](https://git.io/typing-svg)
+ 
+</div>
+<br/>
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1e3d?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117)](https://linkedin.com/in/aditya-kumar-singh-57588531b)
+[![Gmail](https://img.shields.io/badge/aditya53020@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff7b72&labelColor=0d1117)](mailto:aditya53020@gmail.com)
+[![GitHub](https://img.shields.io/badge/adityasingh6533-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/adityasingh6533)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa657&labelColor=0d1117)](https://leetcode.com/u/0xAlgoAditya/)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityasingh6533&label=VIEWS&color=1f6feb&style=for-the-badge&labelColor=0d1117)](https://github.com/adityasingh6533)
+ 
+</div>
+
 ## <span style="font-size: 28px;">&lt;/&gt;</span> <span style="background: linear-gradient(90deg,#58A6FF,#C084FC); -webkit-background-clip: text; color: transparent;">Skills</span> ⚡
 ---
 ### 🧠 Low-Level & Core
