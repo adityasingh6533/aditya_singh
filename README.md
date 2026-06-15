@@ -1,35 +1,4 @@
-I want you to completely rewrite and redesign my GitHub README so it looks modern, premium, and impressive, but still professional.
-Goal:
-Make the README feel high-quality, clean, developer-friendly, and visually attractive. It should not look generic or AI-generated. It should feel like something from a polished open-source project or a strong developer portfolio.
-Style:
-- Modern GitHub README style
-- Clean headings
-- Strong intro
-- Good structure
-- Concise but impactful writing
-- No cringe, no overhype
-- Human tone
-- Developer-focused
-- Visually polished using Markdown
-- Add badges if useful
-- Add sections only if they make sense
-Please improve:
-- Project title and tagline
-- Short description
-- Features section
-- Tech stack section
-- Installation/setup steps
-- Usage section
-- Screenshots/demo placeholder section if relevant
-- Folder structure if useful
-- Contribution section
-- License section
-- Any missing sections that would make it look more complete
-Important:
-Do not invent fake features. If information is missing, add clear placeholders like `[Add screenshot here]` or `[Add deployment link here]`.
-Tone:
-Confident, sharp, modern, and professional.
-Here is my current README:
+
 [
 ## <span style="font-size: 28px;">&lt;/&gt;</span> <span style="background: linear-gradient(90deg,#58A6FF,#C084FC); -webkit-background-clip: text; color: transparent;">Skills</span> ⚡
 ---
