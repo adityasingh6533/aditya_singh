@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Aditya%20Singh&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%E2%80%A2%20DSA%20%E2%80%A2%20C%2B%2B&descAlignY=75&descSize=18&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020409,30:0d1117,60:0d1e3d,100:1a0d2e&height=280&section=header&text=Aditya%20Singh&fontSize=64&fontColor=79c0ff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20DSA%20%E2%80%A2%20Open%20Source&descAlignY=68&descSize=16&descColor=6e7681&stroke=1f6feb&strokeWidth=1"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+work.;C%2B%2B+%7C+React+%7C+Node.js;Full-Stack+%2B+Strong+Fundamentals.;Open+to+interesting+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=79C0FF&center=true&vCenter=true&width=480&lines=Building+things+that+actually+work.;C%2B%2B+%E2%86%92+React+%E2%86%92+Node.js+%E2%86%92+Repeat.;Open+to+collabs+%26+interesting+problems.;always+building.+always+learning.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,110 +14,112 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=adityasingh6533&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/adityasingh6533)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1e3d?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1e3d)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-1a0a0a?style=for-the-badge&logo=gmail&logoColor=ff7b72&labelColor=1a0a0a)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=d2a8ff&labelColor=0d1117)](https://your-portfolio.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityasingh6533&label=VIEWS&color=1f6feb&style=for-the-badge&labelColor=0d1117)](https://github.com/adityasingh6533)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `whoami`
 
 ```ts
-const aditya = {
-  role        : "Full-Stack Developer",
-  languages   : ["C++", "JavaScript", "TypeScript"],
-  stack       : ["React", "Node.js", "Express", "MongoDB"],
-  focus       : ["DSA", "System Design", "Clean Architecture"],
-  currentlyOn : "[Your current project or goal here]",
-  learning    : "[What you're deep-diving into right now]",
-  openTo      : "Collaborations, freelance, & interesting ideas",
-};
+const dev = {
+  name        : "Aditya Singh",
+  from        : "India 🇮🇳",
+  stack       : ["C++", "React", "Node.js", "MongoDB", "TypeScript"],
+  currentFocus: "[Your current project or goal]",
+  learning    : "[DSA / System Design / Next thing you're mastering]",
+  openTo      : "collabs, freelance, and genuinely interesting problems",
+}; // always building.
 ```
 
 ---
 
-## ⚡ Tech Stack
+## Stack
 
-### 🧠 Core CS
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-6A5ACD?style=for-the-badge&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6F61?style=for-the-badge&logoColor=white)
+**Core**
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=0d1117)
+![DSA](https://img.shields.io/badge/Data%20Structures-0d1117?style=for-the-badge&logoColor=6A5ACD&labelColor=0d1117)
+![Algorithms](https://img.shields.io/badge/Algorithms-0d1117?style=for-the-badge&logoColor=FF6F61&labelColor=0d1117)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117)
 
-### 🛢️ Database & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0d1117)
 
-## 🚀 Featured Projects
+**Backend & DB**
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0d1117)
 
-| 🔥 Project | 📌 About | 🛠 Stack | 🔗 Links |
-|:----------|:--------|:--------|:--------|
-| **[Project Name]** | [Short sharp description — what it does & why it matters] | React · Node · MongoDB | [Live](https://your-link.com) · [Code](https://github.com/adityasingh6533/repo) |
-| **[Project Name]** | [Short sharp description] | C++ · Algorithms | [Code](https://github.com/adityasingh6533/repo) |
-| **[Project Name]** | [Short sharp description] | TypeScript · Express | [Live](https://your-link.com) · [Code](https://github.com/adityasingh6533/repo) |
+**Tools**
 
-</div>
-
-> 📌 *Pin your best 3–4 repos below this section — they do more selling than any badge can.*
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7&labelColor=0d1117)
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityasingh6533&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh6533&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh6533&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=C084FC&currStreakLabel=58A6FF" width="70%"/>
+| Project | Description | Stack | Link |
+|:--------|:-----------|:------|:-----|
+| **◈ [Project Name]** | What it does — one line, make it count | `React` `Node` `MongoDB` | [↗ Live](https://link) · [⌥ Code](https://github.com/adityasingh6533/repo) |
+| **◈ [Project Name]** | C++ / algo / system level project | `C++` `Algorithms` | [⌥ Code](https://github.com/adityasingh6533/repo) |
+| **◈ [Project Name]** | TypeScript full-stack — clean architecture | `TypeScript` `Express` | [↗ Live](https://link) · [⌥ Code](https://github.com/adityasingh6533/repo) |
+| **◈ [Project Name]** | A frontend you're genuinely proud of | `React` `Tailwind` | [↗ Live](https://link) |
 
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh6533&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityasingh6533&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&title_color=79c0ff&icon_color=d2a8ff&text_color=6e7681&bg_color=0d1117" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh6533&layout=compact&theme=github_dark&hide_border=true&title_color=79c0ff&text_color=6e7681&bg_color=0d1117&langs_count=8" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh6533&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=1f6feb&fire=d2a8ff&currStreakLabel=79c0ff&sideLabels=6e7681&dates=484f58&background=0d1117" width="70%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityasingh6533&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh6533&bg_color=0d1117&color=79c0ff&line=1f6feb&point=d2a8ff&area_color=1f6feb&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityasingh6533&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=79c0ff"/>
 
 </div>
 
@@ -125,8 +127,8 @@ const aditya = {
 
 <div align="center">
 
-*Always building. Always learning. Always open to a good conversation.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1e3d,100:1a0d2e&height=100&section=footer&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a1a2e,100:0f3460&height=100&section=footer&animation=fadeIn"/>
+*`// always building · always learning · always open to a good conversation`*
 
 </div>
